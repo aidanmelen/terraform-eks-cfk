@@ -45,26 +45,3 @@ Available targets:
 ## License
 
 MIT Licensed. See [LICENSE](https://github.com/aidanmelen/terraform-eks-cfk/tree/master/LICENSE) for full details.
-
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-## Requirements
-
-| Name | Version |
-|------|---------|
-| terraform | >= 1.0.5 |
-
-## Providers
-
-No provider.
-
-## Inputs
-
-No input.
-
-## Outputs
-
-| Name | Description |
-|------|-------------|
-| hello\_world | n/a |
-
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->

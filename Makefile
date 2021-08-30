@@ -5,9 +5,7 @@ all: install lint
 
 .PHONY: install
 install:
-	terraform init
-	cd examples/basic && terraform init && cd ../..
-	cd examples/complete && terraform init && cd ../..
+	cd modules/connect && terraform init && cd ../..
 	git init
 	git add -A
 	pre-commit install

@@ -37,3 +37,5 @@ terraform.rc
 .idea/
 
 *.swp
+
+.DS_Store
